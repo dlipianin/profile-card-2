@@ -138,7 +138,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   background-color: #fff;
-  color: inherit;
+  color: #000;
 }
 
 button:first-child {
